@@ -1,6 +1,6 @@
 @font-face {
-    font-family: irresponsavel;
-    src: url(fontes/Irresponsible\ Direction.ttf);
+    font-family: iron;
+    src: url(fontes/IRON\ MAN\ OF\ WAR\ 002\ NCV.ttf);
 }
 
 
@@ -41,9 +41,9 @@ main{
     align-items: center;
     margin-left: 100px;
     margin-top: -80px;
-    font-family: irresponsavel;
-    font-size: 35px;
-    color: rgba(196, 216, 17, 0.89);
+    font-family: iron;
+    font-size: 40px;
+    color:rgba(212, 100, 184, 0.938);
 
 }
 
