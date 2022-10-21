@@ -22,3 +22,11 @@ nav{
     text-decoration-line: underline;
 }
 
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: -550px;
+    margin-right: 100px;
+}
+
