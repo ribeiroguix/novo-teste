@@ -1,6 +1,6 @@
 *{
     text-decoration: none;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:;
     color: wheat;
     
 }
@@ -27,6 +27,14 @@ main{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+}
+
+.textos-meio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: -80px;
+
 }
 
