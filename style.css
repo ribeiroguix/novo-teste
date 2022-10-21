@@ -1,8 +1,12 @@
+@font-face {
+    font-family: irresponsavel;
+    src: url(fontes/Irresponsible\ Direction.ttf);
+}
+
+
 *{
     text-decoration: none;
-    font-family:;
-    color: wheat;
-    
+    font-family:;   
 }
 
 body{
@@ -16,12 +20,14 @@ nav{
     justify-content: flex-end;
     align-items: center;
     gap: 40px;
-    color: aqua;
     margin-right: 50px;
     margin-top: 30px;
     text-decoration-line: underline;
 }
 
+a{
+    color: azure;
+}
 
 main{
     display: flex;
@@ -35,6 +41,9 @@ main{
     align-items: center;
     margin-left: 100px;
     margin-top: -80px;
+    font-family: irresponsavel;
+    font-size: 35px;
+    color: rgba(196, 216, 17, 0.89);
 
 }
 
